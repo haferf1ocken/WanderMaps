@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=51:8D:F2:1E:3E:7B:F9:A4:38:65:90:F2:AF:B8:56:D7:00:8D:4C:CB%3Bandroid.haferflocken.wandermaps
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    android.haferflocken.wandermaps
+
+    SHA-1 certificate fingerprint:
+    51:8D:F2:1E:3E:7B:F9:A4:38:65:90:F2:AF:B8:56:D7:00:8D:4C:CB
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBccbhA7Bp1YZ-Qjs8PFU2l8q-DsDiBD60</string>
+</resources>
